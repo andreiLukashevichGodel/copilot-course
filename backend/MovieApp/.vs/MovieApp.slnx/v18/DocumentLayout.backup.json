@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\devs\\copilot-course\\backend\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647F3D07-A5EF-09E7-E25B-FC141E43D6FB}|MovieApp.csproj|c:\\devs\\copilot-course\\backend\\movieapp\\features\\movies\\getmoviedetailsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F3D07-A5EF-09E7-E25B-FC141E43D6FB}|MovieApp.csproj|solutionrelative:features\\movies\\getmoviedetailsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F3D07-A5EF-09E7-E25B-FC141E43D6FB}|MovieApp.csproj|c:\\devs\\copilot-course\\backend\\movieapp\\features\\movies\\moviedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F3D07-A5EF-09E7-E25B-FC141E43D6FB}|MovieApp.csproj|solutionrelative:features\\movies\\moviedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F3D07-A5EF-09E7-E25B-FC141E43D6FB}|MovieApp.csproj|c:\\devs\\copilot-course\\backend\\movieapp\\features\\library\\addmovietocollectionendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647F3D07-A5EF-09E7-E25B-FC141E43D6FB}|MovieApp.csproj|solutionrelative:features\\library\\addmovietocollectionendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDtos.cs",
+              "DocumentMoniker": "C:\\devs\\copilot-course\\backend\\MovieApp\\Features\\Movies\\MovieDtos.cs",
+              "RelativeDocumentMoniker": "Features\\Movies\\MovieDtos.cs",
+              "ToolTip": "C:\\devs\\copilot-course\\backend\\MovieApp\\Features\\Movies\\MovieDtos.cs",
+              "RelativeToolTip": "Features\\Movies\\MovieDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:00:28.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetMovieDetailsEndpoint.cs",
+              "DocumentMoniker": "C:\\devs\\copilot-course\\backend\\MovieApp\\Features\\Movies\\GetMovieDetailsEndpoint.cs",
+              "RelativeDocumentMoniker": "Features\\Movies\\GetMovieDetailsEndpoint.cs",
+              "ToolTip": "C:\\devs\\copilot-course\\backend\\MovieApp\\Features\\Movies\\GetMovieDetailsEndpoint.cs",
+              "RelativeToolTip": "Features\\Movies\\GetMovieDetailsEndpoint.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T21:00:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddMovieToCollectionEndpoint.cs",
+              "DocumentMoniker": "C:\\devs\\copilot-course\\backend\\MovieApp\\Features\\Library\\AddMovieToCollectionEndpoint.cs",
+              "RelativeDocumentMoniker": "Features\\Library\\AddMovieToCollectionEndpoint.cs",
+              "ToolTip": "C:\\devs\\copilot-course\\backend\\MovieApp\\Features\\Library\\AddMovieToCollectionEndpoint.cs",
+              "RelativeToolTip": "Features\\Library\\AddMovieToCollectionEndpoint.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T20:53:33.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
