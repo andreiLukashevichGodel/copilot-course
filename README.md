@@ -45,7 +45,6 @@ A comprehensive movie collection management application that allows users to sea
 - ✅ Pagination (20 items per page)
 - ✅ URL-based filter persistence
 - ✅ Genre auto-population from OMDB
-- ✅ Backfill utility for existing movies
 
 ### Review System
 - ✅ Write and edit personal movie reviews
@@ -96,7 +95,6 @@ copilot-course/
 │       │   │   ├── GetCollectionGenresEndpoint.cs
 │       │   │   ├── GetDashboardStatsEndpoint.cs
 │       │   │   ├── AddMovieToCollectionEndpoint.cs
-│       │   │   ├── BackfillGenresEndpoint.cs
 │       │   │   └── LibraryDtos.cs
 │       │   ├── Movies/
 │       │   │   ├── SearchMoviesEndpoint.cs
@@ -265,9 +263,6 @@ The backend is configured to allow requests from `http://localhost:5173` (fronte
 ### Dashboard
 - `GET /api/library/dashboard/stats` - Get dashboard statistics
 
-### Utilities
-- `POST /api/library/backfill-genres` - Backfill genre data for existing movies
-
 ## Database Schema
 
 ### Users
@@ -349,18 +344,6 @@ The backend is configured to allow requests from `http://localhost:5173` (fronte
 - SVG-based pie chart for genres
 - Histogram visualization for rating distribution
 - Clickable navigation to related content
-
-## Utilities
-
-### Backfill Genres
-If you have existing movies in collections without genre data, use the backfill endpoint:
-
-```bash
-POST http://localhost:5000/api/library/backfill-genres
-Authorization: Bearer {your-jwt-token}
-```
-
-This will fetch genre information from OMDB for all movies with missing genre data.
 
 ## Current Status
 
