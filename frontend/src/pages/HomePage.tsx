@@ -96,7 +96,6 @@ export default function HomePage() {
     return null;
   }
 
-  const maxGenreCount = Math.max(...stats.genreDistribution.map(g => g.count), 1);
   const maxRatingCount = Math.max(...stats.ratingDistribution.map(r => r.count), 1);
 
   return (
